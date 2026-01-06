@@ -28,3 +28,4 @@ labs (
     test_name VARCHAR(50),
     test_result DECIMAL(10,2)
 );
+ SELECT * FROM STUDENTS;
