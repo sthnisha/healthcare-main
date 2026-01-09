@@ -1,0 +1,11 @@
+student (
+  student_id INT,
+  student_name VARCHAR(100),
+  age INT,
+  gender VARCHAR(10),
+  class VARCHAR(20),
+  department VARCHAR(50),
+  marks INT,
+  email VARCHAR(100),
+  admission_date DATE
+)
